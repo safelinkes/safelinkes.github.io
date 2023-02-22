@@ -34,7 +34,15 @@ label {
 }
 
 .is-center {
-    text-align: center
+    text-align: center;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
 }
 
 .pure-form label {
